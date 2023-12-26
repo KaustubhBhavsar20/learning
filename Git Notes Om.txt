@@ -1,7 +1,7 @@
 GitHub- Space to store source code of any project online
 Git- version control tool
 
-Steps-
+Steps- for change in actual project
 0. First connect offline and online
 1. Do a change
 2. Add to local git (git add .)
