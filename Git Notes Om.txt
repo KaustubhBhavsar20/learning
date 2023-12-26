@@ -1,0 +1,9 @@
+GitHub- Space to store source code of any project online
+Git- version control tool
+
+Steps-
+0. First connect offline and online
+1. Do a change
+2. Add to local git (git add .)
+3. Commit (save the changes) (git commit -m "relevent message")
+4. Push to online git (git push origin master)
